@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(17,47): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(117,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(129,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(140,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(151,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(164,82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(283,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(284,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(285,43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(286,38): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(287,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(288,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(289,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(290,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(291,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(292,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(293,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(739,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(754,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(771,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(783,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(795,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(806,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hardc\source\repos\gra rpg\gra rpg\Source.cpp(815,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gra rpg.vcxproj -> C:\Users\hardc\source\repos\gra rpg\Debug\gra rpg.exe
